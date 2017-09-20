@@ -58,3 +58,4 @@ console.log("Gradovi koi se so povrsina pogoelma od 400km2 podredeni od najgolem
 for(x in sortNiza){
 console.log(sortNiza[x].ime + " - " + sortNiza[x].povrsina);}
 
+//promena
