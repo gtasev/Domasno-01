@@ -59,3 +59,4 @@ for(x in sortNiza){
 console.log(sortNiza[x].ime + " - " + sortNiza[x].povrsina);}
 
 //promena
+//vtora promena
